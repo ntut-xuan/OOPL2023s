@@ -60,6 +60,8 @@
 #include "gameutil.h"
 #include "gamecore.h"
 #include "audio.h"
+#include "../Game/config.h"
+
 
 namespace game_framework {
 
