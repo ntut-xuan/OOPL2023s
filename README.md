@@ -19,6 +19,6 @@ For any inquires, please use the [these contact method]() to contact the TA.
     - Create the Github repository.
     - Create two new branch `game-framework-practice` and `master`, and add `ntut-xuan` to Collaborators.
     - Practice the game-framework with tutorial, and push the practice result to branch `game-framework-practice`.
-    - If you already complete the practice, create a PR (Pull Request) to merge to `master` branch, and set `ntut-xuan` to reviewer.
-    - `ntut-xuan` will check the practice result on PR, approve if the practice result is good, otherwise, will leave the message to describe why fail.
-
+    - If you already complete the practice, create a PR (Pull Request) let `game-framework-practice` merge to `master` branch, and set `ntut-xuan` to reviewer.
+    - `ntut-xuan` will check the practice result on PR, approve it if the practice result is good, otherwise, will leave the message to describe why fail.
+    - Once you have approved from `ntut-xuan`, you can merge the branch to `master` or close PR.
