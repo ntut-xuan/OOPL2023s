@@ -17,6 +17,13 @@ For any inquires, please use the [these contact method](#TA Contact Method) to c
 
 
 
+## Game Framework Info
+
+- By [Leistungsstarkes Game Framework](https://github.com/ntut-xuan/LeistungsstarkesGameFramework) in **beta version**.
+- Create [issue](https://github.com/ntut-xuan/LeistungsstarkesGameFramework/issues) if you have any idea.
+
+
+
 ## TA Contact Method
 
 - MS Teams: 黃漢軒
