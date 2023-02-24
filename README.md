@@ -6,7 +6,9 @@ For any inquires, please use the [these contact method](#TA Contact Method) to c
 
 
 
-## Week 1 - Course Introduction
+## Announcement
+
+### Week 1 - Course Introduction
 
 - Material
   - Lecture 00: Course Information
