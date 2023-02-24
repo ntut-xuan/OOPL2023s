@@ -20,4 +20,5 @@ For any inquires, please use the [these contact method](#TA Contact Method) to c
 ## TA Contact Method
 
 - MS Teams: 黃漢軒
+- Mail: t109590031@ntut.org.tw
 - Telegram: @xuan910625
