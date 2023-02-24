@@ -13,5 +13,6 @@ For any inquires, please use the [these contact method]() to contact the TA.
 - Material
   - Lecture 00: Course Information
 - A TODO for you.
-  - Join Zuvio with code \<Zuvio code will available here\>
-  - Apply the team information on form if you already make up a team.
+  - Join Zuvio with code 107202410
+  - Apply the team information on form if you already make up a team. (Link will available soon.)
+  - Practice the game framework by following tutorial. (Tutorial will available soon.)
